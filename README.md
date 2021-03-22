@@ -17,7 +17,7 @@
 ### [Total Drivers](analysis/Fig7.png)
 #### The total number of drivers for all cities in the current data was 2,973. Urban cities had a total of 2,405 drivers, or almost 81% of the total driver count.  Suburban cities had 490 drivers (16.5% of the total).  Rural cities accounted for only 78 drivers, just 2.6% of the total driver count.
 ### [Total Fares](analysis/Fig5.png)
-#### Total fares collected for the rides and time period considered were $63,539. Urban cities totaled fares of $39,854 for the time period viewed (62.7% of the total).  Suburban cities totaled fares of $19,356 for the same time period (30.5% of the total).  Rural city rides had fares totaling $4,328 for this period (6.8% of the total).
+#### Total fares collected for the rides during time period considered were $63,539. Urban cities totaled fares of $39,854 for the time period viewed (62.7% of the total).  Suburban cities totaled fares of $19,356 for the same time period (30.5% of the total).  Rural city rides had fares totaling $4,328 for this period (6.8% of the total).
 ### [Average Fare per Ride](analysis/Fig3.png)
 #### For urban, suburban and rural cities, the average fare per ride was [$24.52, $30.97 and $34.62](analysis/Ride_sharing_summary_by_city_type.png) respectively.
 ### [Average Fare by Driver](analysis/Ride_sharing_summary_by_city_type.png)
