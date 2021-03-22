@@ -9,7 +9,7 @@
   - Software: Python 3.7.7, Anaconda, Jupyter Notebook 6.1.4, Pandas, Matplotlib
 
 
-## Results
+## **Results**
 #### A summary table shows the following results. [(summary table)](analysis/Ride_sharing_summary_by_city_type.png)
 
 ### [Total Rides](analysis/Fig6.png)
