@@ -13,7 +13,7 @@
 #### A summary table shows the following results. [(summary table)](analysis/Ride_sharing_summary_by_city_type.png)
 
 ### [Total Rides](analysis/Fig6.png)
-####  There were 2,375 rides included in the data. Urban cities accounted for 1,625 rides, or 68.4% of the total rides provided. Suburban and rural cities accounted for 625 and 125 rides respectively, or 26.3% and 5.3% of the total rides provided.
+#### There were 2,375 rides included in the data. Urban cities accounted for 1,625 rides, or 68.4% of the total rides provided. Suburban and rural cities accounted for 625 and 125 rides respectively, or 26.3% and 5.3% of the total rides provided.
 ### [Total Drivers](analysis/Fig7.png)
 #### The total number of drivers for all cities in the current data was 2,973. Urban cities had a total of 2,405 drivers, or almost 81% of the total driver count.  Suburban cities had 490 drivers (16.5% of the total).  Rural cities accounted for only 78 drivers, just 2.6% of the total driver count.
 ### [Total Fares](analysis/Fig5.png)
