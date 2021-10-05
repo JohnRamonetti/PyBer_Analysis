@@ -32,3 +32,8 @@
 ### Both the average fare per ride and the average fare per driver increase significantly from urban to suburban to rural cities.  This is probably, in part, due to the greater distances drivers must travel as you move from urban to suburban to rural settings.  It is also due, in part, to the disproportionately high number of drivers in urban cities. We should look at how drivers are engaged in the different city types (part-time, full-time, per diem, etc.) in order to make better sense of what these numbers mean.  If most drivers are full-time, then it is important to utilize them fully to ensure continued driver satisfaction and protect the company's bottom line.
 ### When we look at the weekly fare fluctuation in the "Total Fare by City Type" line chart, it is clear that we need to understand whether there is significant seasonal fluctuation in demand for rides (perhaps urban riders prefer to walk when the weather is nice).  We need to understand better how to anticipate the factors, like weather, that affect the demand for rides, again so that the company can better utilize drivers and adequately fill ride demand.
 
+
+________________________________
+#### Contact:
+
+#### E-mail: [john.ramonetti@gmail.com](mailto:john.ramonetti@gmail.com)
